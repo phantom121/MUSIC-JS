@@ -1,0 +1,24 @@
+{
+  "name": "MusicBot By YassineHz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "lyrics-finder": "^21.4.0",
+    "opusscript": "^0.0.7",
+    "scrape-yt": "^1.4.3",
+    "ytdl-core": "^3.3.0",
+    "ytdl-core-discord": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --experimental-worker index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YassineHz",
+  "license": "ISC",
+  "description": "Dev Channel : https://www.youtube.com/channel/UCYPxP5Xq-5Lzk_Bg4rdPxfw"
+}
