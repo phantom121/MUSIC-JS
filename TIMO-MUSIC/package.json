@@ -1,5 +1,5 @@
 {
-  "name": "MusicBot By YassineHz",
+  "name": "MusicBot By PHANTOM",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -18,7 +18,7 @@
     "start": "node --experimental-worker index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "YassineHz",
+  "author": "PHANTOM",
   "license": "ISC",
-  "description": "Dev Channel : https://www.youtube.com/channel/UCYPxP5Xq-5Lzk_Bg4rdPxfw"
+  "description": "Dev Channel :https://www.youtube.com/channel/UCtxWom0HSeOnGqXLTgGopMw"
 }
