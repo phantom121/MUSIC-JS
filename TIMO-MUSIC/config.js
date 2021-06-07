@@ -1,5 +1,5 @@
 const config = {
     token: 'ODM1MDQ1MjcxNTE5NDk0MTQ0.YIJugw.oontXsjrZl9xMVdnC56lwTLgEis',
-    prefix: '+'
+    prefix: '/'
 }
 module.exports = config;
